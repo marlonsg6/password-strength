@@ -58,3 +58,9 @@ input[type="password"]{
     max-width: 70%;
     margin: 0 auto 10px;
 }
+
+@media(max-width: 450px) {
+    .container{
+        margin: 20px;
+    }
+}
